@@ -1,6 +1,4 @@
-👉 wanted_pre_onboarding 
->
-## 💻 Front-end
+<h2>💻 Front-end</h2>
 원티드 프리 온보딩 선발 과제
 
 <li>Toggle</li>
